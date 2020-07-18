@@ -18,7 +18,9 @@
     "url": "https://github.com/MuhammadSohailNazar/react-storybook/issues"
   },
   "homepage": "https://github.com/MuhammadSohailNazar/react-storybook#readme",
-  "dependencies": {},
+  "dependencies": {
+    "styled-components": "^5.1.1"
+  },
   "devDependencies": {
     "@babel/core": "^7.10.5",
     "@storybook/addon-actions": "^5.3.19",
