@@ -1,0 +1,30 @@
+{
+  "name": "react-storybook",
+  "version": "1.0.0",
+  "description": "how to use storybook in react project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "storybook": "start-storybook -p 6006",
+    "build-storybook": "build-storybook"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MuhammadSohailNazar/react-storybook.git"
+  },
+  "author": "Sohail Nazar <sohail.nazar@outlook.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MuhammadSohailNazar/react-storybook/issues"
+  },
+  "homepage": "https://github.com/MuhammadSohailNazar/react-storybook#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/core": "^7.10.5",
+    "@storybook/addon-actions": "^5.3.19",
+    "@storybook/addon-links": "^5.3.19",
+    "@storybook/addons": "^5.3.19",
+    "@storybook/react": "^5.3.19",
+    "babel-loader": "^8.1.0"
+  }
+}
